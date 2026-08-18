@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.png" alt="ProofDeck Logo" width="180">
+
 # ProofDeck
 
 ### Stop claiming skills. Start proving them.
@@ -256,14 +258,14 @@ Closing framing: proof over polished claims.
 ```text
 ProofDeck-Saarthi26/
 ├── README.md
-├── ProofDeck_Saarthi26_PitchDeck.pptx
-├── ProofDeck_Saarthi26_PitchDeck.pdf
+├── assets/
+│   └── logo.png
 ├── slides/
 │   ├── 1.png
 │   ├── 2.png
-│   ├── ...
-│   └── 9.png
-└── assets/
+│   └── ...
+├── ProofDeck_Saarthi26_PitchDeck.pptx
+└── ProofDeck_Saarthi26_PitchDeck.pdf
 ```
 
 ---
