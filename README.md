@@ -172,7 +172,8 @@ This is an **idea-stage competition project**. No user or recruiter validation h
 
 ## 11. Pitch Deck
 
-The full Saarthi '26 Round 1 pitch deck (`ProofDeck_Saarthi26_PitchDeck.pptx` / `.pdf`) is included in this repository. Slide previews:
+📄The full [`Pitch Decks`](./decks/) is included in this repository.  
+Slide previews:
 
 <table>
 <tr>
@@ -256,18 +257,31 @@ Closing framing: proof over polished claims.
 ## 12. Repository Structure
 
 ```text
-ProofDeck-Saarthi26/
-├── README.md
+ProofDeck/
+│
 ├── assets/
 │   └── logo.png
+│
+├── decks/
+│   ├── eureka-2026/
+│   │   ├── ProofDeck_V2_Eureka_Edition.pptx
+│   │   └── ProofDeck_V2_Eureka_Edition.pdf
+│   │
+│   └── saarthi-2026/
+│       ├── ProofDeck_Saarthi26_PitchDeck.pptx
+│       └── ProofDeck_Saarthi26_PitchDeck.pdf
+│
+├── docs/
+│   └── ProofDeck_V2_JuryPrep_and_PitchGuide.md
+│
 ├── slides/
 │   ├── 1.png
 │   ├── 2.png
 │   └── ...
-├── ProofDeck_Saarthi26_PitchDeck.pptx
-└── ProofDeck_Saarthi26_PitchDeck.pdf
+│
+├── LICENSE
+└── README.md
 ```
-
 ---
 
 ## 13. Potential Technical Architecture
@@ -296,10 +310,9 @@ This architecture is a proposed direction for a future MVP build, not an impleme
 
 ## 14. Competition Context
 
-**Saarthi '26 — Startup Pitching Competition**
-Organised under the National Entrepreneurship Challenge (NEC) by E-Cell, IIT Bombay.
+ProofDeck has been developed and presented as a startup concept across the **NEC ecosystem**, including **Saarthi '26** and **Eureka! 2026**.
 
-This pitch deck was created for the **Round 1 pitch-deck screening stage** of the competition.
+The Eureka! 2026 edition represents the latest iteration of the ProofDeck concept.
 
 ---
 
@@ -309,15 +322,15 @@ This pitch deck was created for the **Round 1 pitch-deck screening stage** of th
 <tr>
 <td width="50%" valign="top">
 
-**Daksh Khandelwal**
-B.Sc. Applied Artificial Intelligence & Data Science
+**Daksh Khandelwal**  
+B.Sc. Applied Artificial Intelligence & Data Science  
 IIT Jodhpur
 
 </td>
 <td width="50%" valign="top">
 
-**Khushi Kushwah**
-B.Sc. Applied Artificial Intelligence & Data Science
+**Khushi Kushwah**  
+B.Sc. Applied Artificial Intelligence & Data Science  
 IIT Jodhpur
 
 </td>
@@ -330,7 +343,7 @@ ProofDeck is a student-founder startup concept built at the intersection of AI, 
 
 ## 16. Disclaimer / Project Status
 
-> ProofDeck is currently a startup concept / prototype-stage project developed for the Saarthi '26 startup pitching competition. Product screens shown in the deck are conceptual representations. Market assumptions, pricing, and validation plans require real-world testing.
+> ProofDeck is currently a startup concept / prototype-stage project developed for the Startup pitching competitions. Product screens shown in the deck are conceptual representations. Market assumptions, pricing, and validation plans require real-world testing.
 
 ---
 
