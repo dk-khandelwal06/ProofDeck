@@ -263,6 +263,12 @@ ProofDeck/
 │   └── logo.png
 │
 ├── decks/
+│   │
+│   ├── Your Idea. Our Capital. — 50K Sprint/
+│   │   ├── Panel 1 — The Business.png
+│   │   ├── Panel 2 — First ₹10,000 Allocation.png
+│   │   └── Panel 3 — Five-Month Execution & Financial Roadmap.png
+│   │
 │   ├── eureka-2026/
 │   │   ├── ProofDeck_V2_Eureka_Edition.pptx
 │   │   └── ProofDeck_V2_Eureka_Edition.pdf
@@ -348,7 +354,7 @@ ProofDeck was presented for the **Your Idea. Our Capital. — 50K Sprint** compe
 
 ![Five-Month Roadmap](./decks/Your%20Idea.%20Our%20Capital.%20%E2%80%94%2050K%20Sprint/Panel%203%20%E2%80%94%20Five-Month%20Execution%20%26%20Financial%20Roadmap.png)
 
-> 🎥 **90-Second Competition Pitch:** The submission video is hosted externally because the MP4 file is approximately 50 MB.
+> 🎥 **90-Second Competition Pitch:** [Click Here !!](https://drive.google.com/file/d/1OtHUncpuhOnWWDZEw-alzoMoNHdgmboP/view?usp=sharing)
 ---
 
 ## 15. Founders
