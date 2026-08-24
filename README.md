@@ -310,10 +310,45 @@ This architecture is a proposed direction for a future MVP build, not an impleme
 
 ## 14. Competition Context
 
-ProofDeck has been developed and presented as a startup concept across the **NEC ecosystem**, including **Saarthi '26** and **Eureka! 2026**.
+ProofDeck has been developed and presented as a startup concept across multiple startup and entrepreneurship competitions.
 
-The Eureka! 2026 edition represents the latest iteration of the ProofDeck concept.
+### 🏆 Eureka! 2026
 
+ProofDeck was developed and presented as a startup concept for the **Eureka! 2026** competition.
+
+📂 [`Eureka! 2026 Pitch Deck`](./decks/eureka-2026/)
+
+---
+
+### 🚀 Saarthi '26
+
+ProofDeck was also developed and presented for **Saarthi '26**, focusing on the problem of making technical skills more evidence-backed and inspectable.
+
+📂 [`Saarthi '26 Pitch Deck`](./decks/saarhi-2026/)
+
+---
+
+### 💰 Your Idea. Our Capital. — 50K Sprint
+
+ProofDeck was presented for the **Your Idea. Our Capital. — 50K Sprint** competition with a five-month execution and financial plan.
+
+📂 [`50K Sprint Pitch Panels`](./decks/Your%20Idea.%20Our%20Capital.%20%E2%80%94%2050K%20Sprint/)
+
+#### Competition Panels
+
+**Panel 1 — The Business**
+
+![ProofDeck Business Panel](./decks/Your%20Idea.%20Our%20Capital.%20%E2%80%94%2050K%20Sprint/Panel%201%20%E2%80%94%20The%20Business.png)
+
+**Panel 2 — First ₹10,000 Allocation**
+
+![₹10,000 Allocation Panel](./decks/Your%20Idea.%20Our%20Capital.%20%E2%80%94%2050K%20Sprint/Panel%202%20%E2%80%94%20First%20₹10,000%20Allocation.png)
+
+**Panel 3 — Five-Month Execution & Financial Roadmap**
+
+![Five-Month Roadmap](./decks/Your%20Idea.%20Our%20Capital.%20%E2%80%94%2050K%20Sprint/Panel%203%20%E2%80%94%20Five-Month%20Execution%20%26%20Financial%20Roadmap.png)
+
+> 🎥 **90-Second Competition Pitch:** The submission video is hosted externally because the MP4 file is approximately 50 MB.
 ---
 
 ## 15. Founders
